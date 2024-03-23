@@ -1,0 +1,21 @@
+sort1 uses: bubble sort
+
+How do you know?: because bubble sort take least time when the file is sorted.
+
+sort2 uses: merge sort
+
+How do you know?: merge sort takes least time when the file is unsorted.
+
+sort3 uses: selection sort
+
+How do you know?: usally the time taken is same in both sorted and unsorted.
+
+// my rough work:
+time taken:unsorted
+sort1:6.017
+sort2:0.756(merge sort)
+sort3:4.466
+time taken:sorted
+sort1:0.697(bubble sort)
+sort2:0.743
+sort3:4.437(selection sort)
